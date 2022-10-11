@@ -1,3 +1,3 @@
 # Computer-Networks-Pracs
 <br>
-Repo storing CN pracs of Sem 5 (MU)
+In this repository, I will be storing my CN pracs of Sem 5 (MU)
